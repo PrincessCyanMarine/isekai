@@ -2,9 +2,9 @@
 ### Items: 8
 ### Average score: 6.950000000000001
 ### Average rank: 6248.625
-| Rank | Title | Score | Rank (MAL) | preview | |
-| --- | --- | --- | --- | --- | --- |
-| 1 |[Isekai Samurai](https://myanimelist.net/manga/159610/Isekai_Samurai) | 7.4 | 3738 | [![Isekai Samurai](https://cdn.myanimelist.net/images/manga/1/283541.jpg)](https://myanimelist.net/manga/159610/Isekai_Samurai) | [] |
+| Rank | Title | Score | Rank (MAL) | preview |
+| --- | --- | --- | --- | --- |
+| 1 |[Isekai Samurai](https://myanimelist.net/manga/159610/Isekai_Samurai) | 7.4 | 3738 | [![Isekai Samurai](https://cdn.myanimelist.net/images/manga/1/283541.jpg)](https://myanimelist.net/manga/159610/Isekai_Samurai) |
 | 2 |[Isekai de Haishin Katsudou wo Shitara Tairyou no Yandere Shinja wo Umidashiteshimatta Ken](https://myanimelist.net/manga/158948/Isekai_de_Haishin_Katsudou_wo_Shitara_Tairyou_no_Yandere_Shinja_wo_Umidashiteshimatta_Ken) | 7.22 | 5585 | [![Isekai de Haishin Katsudou wo Shitara Tairyou no Yandere Shinja wo Umidashiteshimatta Ken](https://cdn.myanimelist.net/images/manga/3/284518.jpg)](https://myanimelist.net/manga/158948/Isekai_de_Haishin_Katsudou_wo_Shitara_Tairyou_no_Yandere_Shinja_wo_Umidashiteshimatta_Ken) |
 | 3 |[Akuninzura shita B-kyuu Boukensha: Shujinkou to Sono Osananajimi-tachi no Papa ni Naru](https://myanimelist.net/manga/159588/Akuninzura_shita_B-kyuu_Boukensha__Shujinkou_to_Sono_Osananajimi-tachi_no_Papa_ni_Naru) | 7.19 | 6011 | [![Akuninzura shita B-kyuu Boukensha: Shujinkou to Sono Osananajimi-tachi no Papa ni Naru](https://cdn.myanimelist.net/images/manga/3/283194.jpg)](https://myanimelist.net/manga/159588/Akuninzura_shita_B-kyuu_Boukensha__Shujinkou_to_Sono_Osananajimi-tachi_no_Papa_ni_Naru) |
 | 4 |[Netorare Manga no Kuzu Otoko ni Tensei shita Hazu ga Heroine ga Yottekuru Ken](https://myanimelist.net/manga/158294/Netorare_Manga_no_Kuzu_Otoko_ni_Tensei_shita_Hazu_ga_Heroine_ga_Yottekuru_Ken) | 7.12 | 6814 | [![Netorare Manga no Kuzu Otoko ni Tensei shita Hazu ga Heroine ga Yottekuru Ken](https://cdn.myanimelist.net/images/manga/3/280901.jpg)](https://myanimelist.net/manga/158294/Netorare_Manga_no_Kuzu_Otoko_ni_Tensei_shita_Hazu_ga_Heroine_ga_Yottekuru_Ken) |
